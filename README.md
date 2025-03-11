@@ -58,8 +58,8 @@ Ensure you have the following installed:
 2. Upload a 3D model (OBJ).
 3. Use the controls to rotate, zoom, and pan the model
 ## Screenshots
-![CAD Viewer Preview](..png)
-![CAD Viewer Preview](./frontend/public/screenshot.png)
-![CAD Viewer Preview](./frontend/public/screenshot.png)
+![CAD Viewer Preview](./Screenshot1.png)
+![CAD Viewer Preview](./Screenshot2.png)
+![CAD Viewer Preview](./Screenshot3.png)
 
 
