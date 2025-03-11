@@ -56,5 +56,10 @@ Ensure you have the following installed:
 ## Usage
 1. Open the frontend in a browser (`http://localhost:3000`).
 2. Upload a 3D model (OBJ).
-3. Use the controls to rotate, zoom, and pan the model.
+3. Use the controls to rotate, zoom, and pan the model
+## Screenshots
+![CAD Viewer Preview](..png)
+![CAD Viewer Preview](./frontend/public/screenshot.png)
+![CAD Viewer Preview](./frontend/public/screenshot.png)
+
 
