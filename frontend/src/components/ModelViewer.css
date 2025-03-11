@@ -1,0 +1,27 @@
+/* ModelViewer.css */
+.viewer-container {
+    position: relative;
+    height: 400px;
+    width: 100%;
+    background: #222;
+    border-radius: 8px;
+    box-shadow: 0px 4px 10px rgba(255, 255, 255, 0.1);
+  }
+  
+  .loading-text {
+    position: absolute;
+    top: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+    background: black;
+    padding: 5px 10px;
+    border-radius: 4px;
+    font-size: 14px;
+  }
+  
+  .canvas {
+    width: 100%;
+    height: 100%;
+    border-radius: 8px;
+  }
+  
